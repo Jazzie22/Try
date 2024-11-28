@@ -1,0 +1,120 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Profile Picture Example</title>
+  <style>
+    .profile-pic {width: 150px;
+      height: 150px;
+      border-radius: 50%;
+
+    border-radius: 50%;
+      object-fit: cover;
+      border: 3px solid #fff; float: left; /* Moves the image to the left */ margin-right: 20px;
+    }
+    <meta name="description" content="A simple HTML website created with Kodex">
+    <meta name="author" content="Jazzie">
+   
+    <style>
+        /* You can also include your CSS here or in an external file */
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #2f2f2f;
+            color: #222;
+            margin: 0;
+            padding: 0;
+        }
+
+        header {
+            background-color: #2f2f2f;
+			            color: white;
+            padding: 10px 0;
+            text-align: center;
+
+center;
+        }
+
+        main {
+            padding: 20px;
+        }
+
+        footer {
+            background-color: #000;
+            color: white;
+            text-align: center;
+            padding: 10px;
+            position: fixed;
+            bottom: 0;
+            width: 100%;
+        }
+
+        h1, h2 {
+            color: #4CAF50;
+        }
+
+        .content {
+            max-width: 1200px;
+            margin: 0 auto;
+        }
+    </style>
+</head>
+
+          
+
+        
+color: white;
+            text-align: center;
+            padding: 10px;
+            position: fixed;
+            bottom: 0;
+            width: 100%;
+        }
+
+        h1, h2 {
+            color: #4CAF50;
+        }
+
+        .content {
+            max-width: 1200px;
+            margin: 0 auto;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Bunnies</h1>
+      <img
+           src="https://pin.it/4ZQeORpQB" alt="Profile Picture" class="profile-pic">
+      <p class="text">Bunnies</p> 
+  </body>
+  </html>
+        <nav>
+            <a href="#home" style="color: white; padding: 0 15px;">Mo Xiang Tong Xiu</a>
+            <a href="#about" style="color: white; padding: 0 15px;">MDZS</a>
+            <a href="#contact" style="color: white; padding: 0 15px;">Contact</a>
+        </nav>
+    </header>
+
+    <main>
+        <div class="content">  <p>This is the home section of your website. You can add more content here as needed.</p>
+            </section>
+
+            <section id="about">
+                <h2>About Us</h2>
+                <p>hello</p>
+            </section>
+
+            <section id="contact">
+                <h2>Contact Us</h2>
+                <p>Feel free to reach out to us using the contact form or email.</p>
+            </section>
+        </div>
+    </main>
+
+    <footer>
+        <p>&copy; 2024 bunny All Rights Reserved.</p>
+    </footer>
+
+</body>
+</html>
